@@ -18,6 +18,6 @@ Used implicit intent to take the user to another screen with populated multiline
 
 Walkthrough of all user stories: 
 
-![alt tag]()
+![ToDoApp](https://github.com/deeptrivedi6803/ToDoApp/blob/master/ToDoAppDemo.gif?raw=true)
 
 
