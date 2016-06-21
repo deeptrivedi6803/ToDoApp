@@ -20,4 +20,4 @@ Walkthrough of all user stories:
 
 ![ToDoApp](https://github.com/deeptrivedi6803/ToDoApp/blob/master/ToDoAppDemo.gif?raw=true)
 
-
+GIF created with LiceCap
