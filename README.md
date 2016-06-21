@@ -18,6 +18,6 @@ Used implicit intent to take the user to another screen with populated multiline
 
 Walkthrough of all user stories: 
 
-![alt tag](https://drive.google.com/open?id=0B-rakZ0dMM3LY1pGbzNYNTFaOG8)
+![alt tag]()
 
 
